@@ -32,7 +32,7 @@ def calculate(operation, num1, num2):
         result = divide(num1, num2)
     else:
         raise ValueError(f"Unknown operation: {operation}")
-    
+
     return result
 
 
