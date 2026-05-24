@@ -44,6 +44,6 @@ if __name__ == "__main__":
     print(f"10 + 5 = {result1}")
 
     result2 = calculate('multiply', 7, 3)
-    print(f"7 * 3 = {result2}") 
+    print(f"7 * 3 = {result2}")
 
     print("Calculator completed successfully!")
