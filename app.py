@@ -1,3 +1,5 @@
+"""Simple Python calculator application with basic arithmetic operations."""
+
 def add(a, b):
     """Add two numbers"""
     return a + b
